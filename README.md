@@ -6,4 +6,4 @@ You can click the Preview link to take a look at your changes.
 <h3>I'm extremely interested in learning how to be a professional Web Dev!</h3>
 <h3>I am currently learning how to do front end development</h3>
 <h3>I Mostly Fly Solo</h3>
-<h3>Email me @ ihart@ivanhart.dev</h3>
+<h3>Email me @ ivanhart63@gmail.com</h3>
